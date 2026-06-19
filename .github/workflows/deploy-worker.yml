@@ -20,7 +20,7 @@ jobs:
 
       - name: Install API dependencies
         working-directory: api
-        run: npm ci
+        run: npm install
 
       - name: Apply D1 migrations
         working-directory: api
