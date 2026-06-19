@@ -4,6 +4,9 @@ type = "javascript"
 account_id = ""
 workers_dev = true
 
+# Entry point for the Worker script in this package
+main = "index.js"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "INV_GTG_DB"
