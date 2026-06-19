@@ -1,0 +1,10 @@
+name = "inv-gtg-tooling"
+compatibility_date = "2026-06-18"
+workers_dev = true
+
+# Entry point for the Worker script in this package
+main = "index.js"
+
+[[d1_databases]]
+binding = "DB"
+database_id = "99c566c1-1a54-44dc-a1ae-a08e2e6066e3"
