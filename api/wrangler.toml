@@ -1,0 +1,9 @@
+name = "inv-gtg-api"
+compatibility_date = "2026-06-18"
+type = "javascript"
+account_id = ""
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "INV_GTG_DB"
